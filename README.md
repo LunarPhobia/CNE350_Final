@@ -11,5 +11,5 @@ sudo apt install python
 ```
 > Python requests module
 ```
-python -m pip install requests
+pip install requests
 ```
