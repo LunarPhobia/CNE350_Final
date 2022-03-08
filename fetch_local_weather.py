@@ -11,7 +11,7 @@ my_lon = -122.18966257705563
 
 all_stations = get(stations).json()['items']
 
-# Finding the closestt station
+# Finding the closest station
 
 def find_closest():
 	smallest = 20036
