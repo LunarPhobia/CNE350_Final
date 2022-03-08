@@ -6,4 +6,5 @@ Source Used: https://projects.raspberrypi.org/en/projects/fetching-the-weather/0
 ## Requirements
 
 > Python
+
 > Python requests module
