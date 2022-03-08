@@ -6,5 +6,10 @@ Source Used: https://projects.raspberrypi.org/en/projects/fetching-the-weather/0
 ## Requirements
 
 > Python
-
+```
+sudo apt install python
+```
 > Python requests module
+```
+python -m pip install requests
+```
